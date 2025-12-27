@@ -1,7 +1,7 @@
 id = "zomorrod-theme"
 name = "Zomorrod"
-version = "1"
+version = "0.0.1"
 schema_version = 1
-authors = ["Ali Nayreez alinayreez@gmail.com>"]
-description = "A theme"
-repository = ""
+authors = ["Ali Nayreez alinayreez@gmail.com"]
+description = "A visually appealing cool theme"
+repository = "https://github.com/AliNayreez/zomorrod-theme"

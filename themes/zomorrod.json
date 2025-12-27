@@ -1,55 +1,41 @@
 {
-  "$schema": "",
   "name": "Zomorrod",
   "author": "Ali Nayreez",
   "themes": [
     {
       "name": "Zomorrod Dark",
       "appearance": "dark",
-      "style": {
-        // Base colors and borders
+      "stle": {
         "border": "#025940",
         "border.disabled": "#0c1c25",
         "border.focused": "#00FFE577",
         "border.selected": "#00FFE5bb",
         "border.transparent": "#00000000",
         "border.variant": "#00FFE525",
-
-        // Surfaces
         "background": "#000",
         "elevated_surface.background": "#00111b",
         "surface.background": "#242631",
-
-        // Elements
         "element.active": "#796595",
         "element.background": "#001A1A",
         "element.disabled": "#e9dbfd",
         "element.hover": "#00c0d535",
         "element.selected": "#00111b",
-
-        // Ghost elements
         "drop_target.background": "#00111b",
         "ghost_element.active": "#00FFE550",
         "ghost_element.background": "#0c1b24",
         "ghost_element.disabled": "#FFD700",
         "ghost_element.hover": "#00c0d535",
         "ghost_element.selected": "#00FFE525",
-
-        // Text
         "text.accent": "#00FFE5",
         "text.disabled": "#00FFE550",
         "text.muted": "#7FFFF2",
         "text.placeholder": "#00FFE580",
         "text": "#FFE5B4",
-
-        // Icons
         "icon.accent": null,
         "icon.disabled": null,
         "icon.muted": null,
         "icon.placeholder": null,
         "icon": null,
-
-        // Bars
         "status_bar.background": "#00111b",
         "tab.active_background": "#00111b",
         "tab_bar.background": "#00111b",
@@ -57,21 +43,15 @@
         "title_bar.background": "#00111b",
         "title_bar.inactive_background": "#00111b",
         "toolbar.background": "#00111b",
-
-        // Search and panels
         "panel.background": "#00111b",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "search.match_background": "#ab5d1a",
-
-        // Scrollbar
         "scrollbar.thumb.background": "#00FFE577",
         "scrollbar.thumb.border": "#00000000",
         "scrollbar.thumb.hover_background": "#00c0d535",
         "scrollbar.track.background": "#0a1821",
         "scrollbar.track.border": "#025940",
-
-        // Main editor
         "editor.active_line.background": "#00c58e33",
         "editor.active_line_number": "#05F2AF",
         "editor.background": "#0c1c25",
@@ -85,14 +65,10 @@
         "editor.subheader.background": "#0a1821",
         "editor.wrap_guide": "#FFE5B4",
         "editor.active_wrap_guide": "#00FFB765",
-
-        // Terminal
         "terminal.background": "#0C1C25",
         "terminal.bright_foreground": "#00FFE5",
         "terminal.dim_foreground": "#001A1A",
         "terminal.foreground": "#86FFAF",
-
-        // Terminal ANSI colors
         "terminal.ansi.black": "#000000",
         "terminal.ansi.red": "#ff6b6b",
         "terminal.ansi.green": "#008B1B",
@@ -110,14 +86,10 @@
         "terminal.ansi.bright_magenta": "#D980FF",
         "terminal.ansi.bright_cyan": "#00FFF0",
         "terminal.ansi.bright_white": "#ffe4aa",
-
-        // Links and conflicts
         "conflict": "#dec184",
         "conflict.background": "#dec18433",
         "conflict.border": "#5d4c2FFf",
         "link_text.hover": "#00c0d535",
-
-        // File status
         "created": "#73fb95",
         "created.background": "#222e1d",
         "created.border": "#38482FFf",
@@ -130,8 +102,6 @@
         "renamed": null,
         "renamed.background": "#242631",
         "renamed.border": null,
-
-        // Messages
         "error": "#00cb6c",
         "error.background": "#00111b",
         "error.border": "#00cb6c",
@@ -144,8 +114,6 @@
         "warning": "#e6e373",
         "warning.background": "#242631",
         "warning.border": "#e6e373",
-
-        // States and indicators
         "hidden": "#414754",
         "hidden.background": "#242631",
         "hidden.border": "#414754",
@@ -161,8 +129,6 @@
         "unreachable": null,
         "unreachable.background": "#00111b",
         "unreachable.border": null,
-
-        // Players
         "players": [
           {
             "cursor": "#00FFB7",
@@ -200,8 +166,6 @@
             "selection": "#FFD70033"
           }
         ],
-
-        // Syntax highlighting
         "syntax": {
           "attribute": {
             "color": "#83faac",

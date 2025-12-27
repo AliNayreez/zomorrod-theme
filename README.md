@@ -4,8 +4,7 @@ Zomorrod (Emerald) is a theme made for Zed editor. It is a comprehensive theme t
 
 ##screenshots
 
-<img width="1600" height="900" alt="Screenshot From 2025-12-26 19-50-23" src="https://github.com/user-attachments/assets/0108d608-9848-4742-aaf0-a2245d499db1" />
-<img width="1600" height="900" alt="Screenshot From 2025-12-26 20-02-01" src="https://github.com/user-attachments/assets/3ae66f84-130a-4985-9c7f-4b6157e9ba01" />
+<img width="1366" height="768" alt="Screenshot From 2025-12-27 21-43-07" src="https://github.com/user-attachments/assets/f7abb2fa-7a87-4549-b352-a6e252741532" />
 <img width="1366" height="768" alt="Screenshot From 2025-12-27 20-21-48" src="https://github.com/user-attachments/assets/7a5894b8-867d-433f-a931-bb3be46c4938" />
 <img width="1366" height="768" alt="Screenshot From 2025-12-27 20-22-02" src="https://github.com/user-attachments/assets/5c6d40a9-af19-4adc-b248-be5d624eff42" />
 <img width="1366" height="768" alt="Screenshot From 2025-12-27 21-40-45-2" src="https://github.com/user-attachments/assets/dad2259b-2ba4-4c25-a455-ef4ba7c93790" />

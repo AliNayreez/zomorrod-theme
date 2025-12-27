@@ -5,7 +5,7 @@
     {
       "name": "Zomorrod Dark",
       "appearance": "dark",
-      "stle": {
+      "style": {
         "border": "#025940",
         "border.disabled": "#0c1c25",
         "border.focused": "#00FFE577",
